@@ -27,7 +27,7 @@ author:
   name             : "Liuyi Ye"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Marketing Simon Business School, University of Rochester"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : # EMAIL
 
