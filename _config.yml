@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-avatar                   : ""
+avatar                   : "profile.png"
 site_theme               : "default"
 theme                    : jekyll-theme-minimal
 title                    : "Liuyi Ye"
