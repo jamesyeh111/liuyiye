@@ -10,7 +10,6 @@
 
 locale                   : "en-US"
 site_theme               : "default"
-avatar                   : "profile.png"
 theme                    : jekyll-theme-minimal
 title                    : "Liuyi Ye"
 title_separator          : "-"
@@ -26,6 +25,7 @@ repository               : "jamesyeh111/liuyiye.github.io"
 author:
   # Biographic information
   name             : "Liuyi Ye"
+  avatar           : "profile.png"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Marketing Simon Business School, University of Rochester"
   employer         : #"Red Brick University"
