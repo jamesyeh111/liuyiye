@@ -7,9 +7,10 @@
 # server process.
 
 # Basic Site Settings
+
 locale                   : "en-US"
-avatar                   : "profile.png"
 site_theme               : "default"
+avatar                   : "profile.png"
 theme                    : jekyll-theme-minimal
 title                    : "Liuyi Ye"
 title_separator          : "-"
