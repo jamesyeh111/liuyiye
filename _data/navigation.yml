@@ -7,21 +7,10 @@
 main:
   - title: "Research"
     url: /publications/
-
-  - title: "Talks"
-    url:    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url:
-        
-  - title: "Blog Posts"
-    url:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: 
+
+  - title: "Teaching"
+    url: /teaching/    
+   
