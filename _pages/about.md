@@ -14,7 +14,7 @@ Welcome to my website! My name is Liuyi Ye, and I am a Ph.D. candidate in Quanti
 
 
 
-[Curriculum Vitae (.pdf)](https://www.dropbox.com/scl/fi/nq8ktm16jbdbtgjjy3u90/LiuyiYe_CV.pdf?rlkey=qsz5nk0lw64p5bgbpofw0oigg&st=jhl5q2jp&dl=0)
+[Curriculum Vitae (.pdf)](https://www.dropbox.com/scl/fi/6ft5lcbrkoeqijlfat9dw/LiuyiYe_CV.pdf?rlkey=3rah1fw30e7sphk8b488bh3mh&st=pnqgx5gc&dl=0)
 
 ## Research 
 
