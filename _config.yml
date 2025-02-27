@@ -25,7 +25,7 @@ repository               : "jamesyeh111/liuyiye.github.io"
 author:
   # Biographic information
   name             : "Liuyi Ye"
-  avatar           : "profile.png"
+  avatar           : "liuyi_headshot.jpg" #"profile.png"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Marketing Simon Business School, University of Rochester"
   employer         : #"Red Brick University"
