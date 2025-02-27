@@ -18,13 +18,13 @@ Welcome to my website! My name is Liuyi Ye, and I am a Ph.D. candidate in Quanti
 ### Research 
 
 
-##### Working Paper
+#### Working Paper
 
-  * Sales Display and Consumer Choice: Evidence from Amazon.com
+Sales Display and Consumer Choice: Evidence from Amazon.com
  <br> (with Takeaki Sunada)
  
      
-##### Work in Progress
+#### Work in Progress
 
 * Naming Strategies Under Economic Nationalism: Evidence from Amazon.com
 <br> (with Fiona Yao and Xin Wang)
