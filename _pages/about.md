@@ -22,17 +22,17 @@ Welcome to my website! My name is Liuyi Ye, and I am a Ph.D. candidate in Quanti
 ### Working Paper
 
 * Sales Display and Consumer Choice: Evidence from Amazon.com
- <br> (with Takeaki Sunada)
+ <br> (with [Takeaki Sunada](https://simon.rochester.edu/faculty/takeaki-sunada)
  
      
 ### Work in Progress
 
 * Naming Strategies Under Economic Nationalism: Evidence from Amazon.com
-<br> (with Fiona Yao and Xin Wang)
+<br> (with [Fiona Yao](https://giesbusiness.illinois.edu/profile/fiona-kun-yao) and [Xin Wang](https://isoi.giesbusiness.illinois.edu/profile/xin-wang)
     
 
 * Creator Co-Creation Strategy: A Dynamic Treatment Analysis of TikTok Influencer Collaborations
-  <br> (with Yulin Hao and Zeng Guang)
+  <br> (with [Yulin Hao](https://www.yulinhao.net/home) and [Zeng Guang](https://www.guangzeng.net/)
 
-* Generative AI, Content Creation and Platform AI Policies
-  <br> (With Gareth John Tyson and Yiluo Wei)
+* Generative AI, Content Creation, and Platform AI Policies
+  <br> (With [Gareth John Tyson](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=111) and Yiluo Wei
