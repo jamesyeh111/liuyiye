@@ -10,7 +10,8 @@ author_profile: true
 
 * Sales Display and Consumer Choice: Evidence from Amazon.com
   * with Takeaki Sunada
-  * <sub> We study the impacts of sales display on consumer and seller decisions. We exploit a phased design change on Amazon.com that allows consumers to observe historical sales, and provide empirical evidence on the positive effect of sales display on future sales.<sub>
+
+    <sub> We study the impacts of sales display on consumer and seller decisions. We exploit a phased design change on Amazon.com that allows consumers to observe historical sales, and provide empirical evidence on the positive effect of sales display on future sales.<sub>
 
 ## Work in Progress
 
@@ -22,6 +23,7 @@ author_profile: true
   * with Yulin Hao and Zeng Guang
 
 * Generative AI, Content Creation and Platform AI Policies
+  
   <sub> We studies the impacts of generative AI on content creation platforms using data from one of the largest creation platforms that cover 15 million artworks (including over 2 million AI-generated artworks).<sub>
 
  
