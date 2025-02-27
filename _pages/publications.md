@@ -17,6 +17,7 @@ author_profile: true
 
 * Naming Strategies Under Economic Nationalism: Evidence from Amazon.com
   * with Fiona Yao and Xin Wang
+    
     <sub> We study how third party Amazon sellers select names as a strategic approach to establish credibility in markets where nationalistic sentiment significantly shape consumer perceptions and expectations. <sub>
 
 * Creator Co-Creation Strategy: A Dynamic Treatment Analysis of TikTok Influencer Collaborations
